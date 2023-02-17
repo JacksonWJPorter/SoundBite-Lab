@@ -1,4 +1,4 @@
-import RestaurantScreen from "./components/ResaurantScreen";
+import RestaurantScreen from "./components/RestaurantScreen";
 
 export default function App() {
   return(
